@@ -3,7 +3,6 @@
 A sample REST API for hybrid encryption using RSA and AES,  
 built with [NestJS](https://nestjs.com) and featuring unit tests and Swagger API documentation.
 
----
 
 ## Features
 
@@ -14,7 +13,6 @@ built with [NestJS](https://nestjs.com) and featuring unit tests and Swagger API
 - Unit testing with Jest  
 - Swagger UI available at `/api-docs`  
 
----
 
 ## Project Structure
 
@@ -38,9 +36,6 @@ built with [NestJS](https://nestjs.com) and featuring unit tests and Swagger API
 └── README.md
 ```
 
-
----
-
 ## Installation and Running
 
 ```bash
@@ -52,15 +47,12 @@ npm run start:dev
 
 ```
 
----
-
 ## Using the API
 
 Open Swagger UI at:
 ```
 http://localhost:3000/api-docs
 ```
----
 
 ## Running Tests
 
@@ -68,4 +60,3 @@ http://localhost:3000/api-docs
 # Run unit tests
 npm run test
 ```
----
