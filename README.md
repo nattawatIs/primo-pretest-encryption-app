@@ -67,11 +67,5 @@ http://localhost:3000/api-docs
 ```bash
 # Run unit tests
 npm run test
-
-# Run unit tests with coverage report
-npm run test:cov
-
-# Run end-to-end (E2E) tests
-npm run test:e2e
 ```
 ---
